@@ -60,6 +60,12 @@ This project focuses on analyzing healthcare data to identify patient trends, ho
 
 ---
 
+## Dashboard Preview
+
+![Healthcare Dashboard](healthcare_dashboard.png)
+
+---
+
 ## Repository Structure
 
 ```text
